@@ -18,4 +18,4 @@ MySQL
 Git
 I'm always interested in collaborating on exciting new projects! You can reach me via email or on LinkedIn.
 
-<h3>Thanks for visiting my profile!</h3>h3>
+<h3>Thanks for visiting my profile!</h3>
