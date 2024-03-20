@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 Experience
 💻 Front-end and back-end web development
-🎨 User interface (UI) and user experience (UX) design
 🚀 Building responsive and optimized websites
 📊 Integration of APIs and databases
 Technologies I master
