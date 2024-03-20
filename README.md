@@ -1,11 +1,11 @@
 
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966](https://github.com/FeerCanitrot/FeerCanitrot/assets/67347775/f6dfdaf2-5b5f-4d54-af22-3c6ccdbf20cf)
+<h1>Hello there! 👋 I'm Fernando</h1>
 
-Hello there! 👋 I'm Fernando
+<h2>Welcome to my GitHub profile! I'm a passionate web developer with experience in creating amazing and engaging websites.</h2>
 
-Welcome to my GitHub profile! I'm a passionate web developer with experience in creating amazing and engaging websites.
+<h3>Experience</h3>
 
-Experience
 💻 Front-end and back-end web development
 🚀 Building responsive and optimized websites
 📊 Integration of APIs and databases
